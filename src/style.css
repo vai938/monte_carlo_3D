@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f0f0f0;
+    color: #ffffff;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+b {
+    color: lightgreen;
+}
+form{
+    position: absolute;
+    top: 10%;
+}
+label{
+    font-size: 1.4rem;
+}
+.btn{
+    color: white;
+    background-color: black;
+    border: 1px solid yellow;
+    padding: 5px 4px;
+    border-radius: 8px;
+    padding: 6px;
+    font-size: 1.2rem;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.heading{
+    margin-top: 200px;
+    margin-left:20px;
+    margin-bottom: 40px;
+    width: 40%;
+    text-decoration: underline;
+}
+input{
+    width: 20%;
+    font-size: 1.2rem;
+}
+.pi{
+    color: white;
+    font-size: 1.4rem;
+    position: absolute;
+    top: 30%;
+}
+.content_value{
+    position: absolute;
+    top: 40px;
+    width: 50%;
+    margin-left: 50px;
+}
